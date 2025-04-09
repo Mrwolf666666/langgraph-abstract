@@ -4,8 +4,6 @@
 
 ## 二、流程设计
 
-![image-20250409160445573](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250409160445573.png)
-
 - 根据原文生成初步的摘要。
 - 进入文本润色节点对摘要进行润色，增强摘要的可读性和流畅性。
 - 进入文本审查节点对摘要与原文的一致性进行审查
